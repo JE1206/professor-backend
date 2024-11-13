@@ -115,3 +115,9 @@ Obs.: Caso esteja utilizando Windows, de preferência a utilizar o GitBash ou te
 - Caso o seu auto import, traga o caminho do arquivo iniciando em 'src/' vc terá problemas para subir a aplicação. Garanta que vc está importando com o caminho relativo:
 
 ![alt text](image-2.png)
+
+# Observações
+
+- Atualizei o versão do npm no dockerfile porque tive um problema enquanto rodava o comando de 'docker build'
+- O link para instalçao do nvm esta errado, ele direciona para um vídeo de instalação do node. Segue o link correto  
+https://github.com/coreybutler/nvm-windows/releases
